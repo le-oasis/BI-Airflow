@@ -1,4 +1,4 @@
-# BI-Airflow
+# Data Engineering for Beginners: Business Intelligence with Apache Airflow
 What we are going to build next will be a small Airflow application in which we will automate various business tasks in an ETL pipeline.
 
 ## Project Requirements
